@@ -12,8 +12,10 @@
 
 <main class="bg-gradient-to-r from-gray-900 to-gray-700 text-2xl font-bold">
     <div class="flex gap-4">
-    <a href="/" class="underline text-gray-400">Home</a>
-    <a href="/portfolio" class="underline text-gray-400">Portfolio</a>
+    <a href="/" class="underline text-indigo-600">Home</a>
+    <a href="/portfolio" class="underline text-indigo-600">Portfolio</a>
+    <a href="/about" class="underline text-indigo-600">About</a>
+    <a href="/contact" class="underline text-indigo-600">Contact</a>
     
 </div>
 <slot></slot>
