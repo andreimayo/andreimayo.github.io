@@ -10,7 +10,7 @@
     </div>
   <div class="mt-8 mb-4 flex justify-center">
     <!-- svelte-ignore a11y-img-redundant-alt -->
-    <img src="/src/images/profileimage.jpg" alt="Profile Image of Andrei Mayo" class="w-48 h-48 rounded-full border-4 border-black" />
+    <img src="/images/profileimage.jpg" alt="Profile Image" class="w-48 h-48 rounded-full border-4 border-black" />
   </div>
     
     <div class="container mx-auto text-center">

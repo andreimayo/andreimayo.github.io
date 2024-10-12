@@ -8,8 +8,8 @@
         description: "A Shoe Stock is a software application designed to help retail stores or warehouses manage their shoe inventory efficiently.",
         technologies: ["JS", "HTML", "CSS"],
         images: [ 
-          "src/images/shoestock1.png", 
-          "src/images/shoestock2.png"  
+          "/images/shoestock1.png", 
+          "/images/shoestock2.png"  
         ],
         video: "https://drive.google.com/file/d/1fGOwkoG5H-GWUS4g9y8PjD5z_w40bq8n/view?usp=drivesdk" 
       },
@@ -18,8 +18,8 @@
         description: "A Simple Calculator is a basic software application designed to perform common arithmetic operations such as addition, subtraction, multiplication, and division.",
         technologies: ["JS", "HTML", "CSS"],
         images: [ 
-          "src/images/calculator.jpg", 
-          "src/images/calculator.jpg"  
+          "/images/calculator.jpg", 
+          "/images/calculator.jpg"  
         ],
         video: "https://drive.google.com/file/d/1fMe8tB67RelkRWvHEvwhU8QUgBX6RvUC/view?usp=drivesdk" 
       },
@@ -28,8 +28,8 @@
         description: "A Home Inventory System is a software application designed to help users organize and track their household items.",
         technologies: ["JS", "HTML", "CSS"],
         images: [ 
-          "src/images/HomeInventory.jpg", 
-          "src/images/HomeInventory2.jpg"  
+          "/images/HomeInventory.jpg", 
+          "/images/HomeInventory2.jpg"  
         ],
         video: "https://www.loom.com/share/51bf3a9cfdad487bac98ea32d1e77d92?sid=0cac1a45-d599-4d90-bed5-41060c91398c" // Add video link for this project
       },
