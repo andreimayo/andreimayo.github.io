@@ -8,8 +8,8 @@
         description: "A Shoe Stock is a software application designed to help retail stores or warehouses manage their shoe inventory efficiently.",
         technologies: ["JS", "HTML", "CSS"],
         images: [ 
-          "/images/shoestock1.png", 
-          "/images/shoestock2.png"  
+          "/images/shoestock1.jpg", 
+          "/images/shoestock2.jpg"  
         ],
         video: "https://drive.google.com/file/d/1fGOwkoG5H-GWUS4g9y8PjD5z_w40bq8n/view?usp=drivesdk" 
       },
