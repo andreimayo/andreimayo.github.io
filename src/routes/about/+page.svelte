@@ -4,7 +4,7 @@
       name: "Andrei Mayo",
       title: "Third Year / BSCS",
       bio: " Hi there! I'm a third-year student majoring in computer science who is passionate about invention and technology. I like to experiment with several computer science fields, such as web technologies, machine learning, and software development.",
-      image: "src/images/profileimage.jpg", 
+      image: "/images/profileimage.jpg", 
       interests: [
         { category: "Professional Interests", list: ["Web Development", "Game Development", "CyberSecurity"] },
         { category: "Frameworks", list: ["Svelte", "React", "Angular"] },
